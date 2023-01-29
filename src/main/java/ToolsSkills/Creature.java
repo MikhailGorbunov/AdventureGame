@@ -11,5 +11,5 @@ public enum Creature{
 
     Creature(String name,int damage, int health) {
     }
-
+//update
 }
